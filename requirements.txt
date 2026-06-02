@@ -1,0 +1,15 @@
+# API & Data Validation
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.3
+
+# Networking
+requests==2.31.0
+
+# Live Dashboard
+streamlit==1.32.0
+pandas==2.2.1
+
+# Computer Vision Pipeline
+ultralytics
+opencv-python
